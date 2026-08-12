@@ -56,7 +56,7 @@ body{font-family:var(--font-geist-sans),Inter,SBSansText,Helvetica,Arial,sans-se
 .brand-mark{position:relative;width:105px;height:36px;border-radius:0;transform:none;background:transparent;color:transparent;font-size:0;box-shadow:none}
 .brand-mark:before{content:"T";position:absolute;left:0;top:0;width:36px;height:36px;display:grid;place-items:center;border-radius:11px;background:var(--orange);color:#fff;font-size:18px;font-weight:900}
 .brand-mark:after{content:"TYMY\A ACADEMY";white-space:pre;position:absolute;left:45px;top:5px;color:var(--navy);font-size:13px;font-weight:900;line-height:1.05;letter-spacing:.03em}
-.brand-logo{display:block;width:99px;height:34px;object-fit:contain}
+.brand-logo{display:block;width:99px;height:34px;object-fit:contain;mix-blend-mode:multiply}
 .stat-pill{border-color:var(--line);box-shadow:0 4px 14px rgba(15,29,64,.05)}
 .avatar{background:var(--orange);color:#fff}
 .welcome p,.inner-header span,.section-heading>div>span{color:var(--muted)}
